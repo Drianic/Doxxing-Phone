@@ -16,6 +16,7 @@ No me hago responsable del mal uso de la Herramienta, se a creado con fines educ
 la instalacion es facil solo ejecutaremos:
 
   ```sh
+  chmod +x install.sh
   ./install.sh
   ```
 
